@@ -1,0 +1,10 @@
+[
+	{
+		"valueNameActionBlock": "Block Action",
+		"valueDescriptionActionBlock": "Description Block Action",
+		"nameVariable": "nameOfVariable"	,	
+		"textLogging" : "Logging",
+		"outputName" : "Outputtttttt",
+		"newValueVar1" : "This is a testing string"
+	}
+]

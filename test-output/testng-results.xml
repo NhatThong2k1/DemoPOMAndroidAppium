@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-01T18:25:39 ICT" name="Default suite" finished-at="2023-11-01T18:26:49 ICT" duration-ms="70615">
+    <groups>
+    </groups>
+    <test started-at="2023-11-01T18:25:39 ICT" name="Default test" finished-at="2023-11-01T18:26:49 ICT" duration-ms="70615">
+      <class name="tests.AddMarcoPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AddMarcoPageTest@6bbe2511]" started-at="2023-11-01T18:25:39 ICT" name="setup" finished-at="2023-11-01T18:25:56 ICT" duration-ms="17091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testMarcoPage(java.lang.String)[pri:0, instance:tests.AddMarcoPageTest@6bbe2511]" started-at="2023-11-01T18:25:56 ICT" name="testMarcoPage" data-provider="DataFromJsonFile" finished-at="2023-11-01T18:26:49 ICT" duration-ms="52814" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Case]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMarcoPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AddMarcoPageTest@6bbe2511]" started-at="2023-11-01T18:26:49 ICT" name="tearDown" finished-at="2023-11-01T18:26:49 ICT" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.AddMarcoPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
